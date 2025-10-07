@@ -5,11 +5,11 @@
 <h3>
 JOIB KRO PLAY CHANNEL</h3>
 
----
-
 ```
 https://www.whatsapp.com/channel/0029VbBTcfJCHDys1Q2ltf0n
 ```
+---
+
 
 # instalación
 
